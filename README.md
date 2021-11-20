@@ -3,12 +3,13 @@
 - 🔭 Desenvolvendo pequenos projetos pessoais 👨‍💻
 - 🌱 Estudando front-end, Analise e Desenvolvimeto de Sistemas, Engenharia de software
 - 📫 Contate-me no email: daviemanuel94@gmail.com 
-
+<!--
 <div align="">
   <a href="https://github.com/daviEmanuelNogueira">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=daviEmanuelNogueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviEmanuelNogueira&layout=compact&langs_count=7&theme=dark"/>
 </div>
+-->
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
