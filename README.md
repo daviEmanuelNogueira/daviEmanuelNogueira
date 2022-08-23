@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvendo pequenos projetos pessoais 👨‍💻
 - 🌱 Estudando front-end, Analise e Desenvolvimeto de Sistemas
-- 👨‍ Estágiario de Desenvolvimento
+- 👨‍ Assistente de Desenvolvimento Pleno
 - 📫 Contate-me no email: daviemanuel94@gmail.com 
 <!--
 <div align="">
