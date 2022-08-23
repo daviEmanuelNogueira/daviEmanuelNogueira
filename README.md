@@ -1,7 +1,7 @@
 ### Olá eu sou o Davi Emanuel 👋
 
 - 🔭 Desenvolvendo pequenos projetos pessoais 👨‍💻
-- 🌱 Estudando front-end, Analise e Desenvolvimeto de Sistemas, Engenharia de software
+- 🌱 Estudando front-end, Analise e Desenvolvimeto de Sistemas
 - 👨‍ Estágiario de Desenvolvimento
 - 📫 Contate-me no email: daviemanuel94@gmail.com 
 <!--
