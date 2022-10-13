@@ -1,7 +1,7 @@
 ### Olá eu sou o Davi Emanuel 👋
 
 - 🔭 Desenvolvendo pequenos projetos pessoais 👨‍💻
-- 🌱 Estudando front-end, Analise e Desenvolvimeto de Sistemas
+- 🌱 Analise e Desenvolvimeto de Sistemas - UMESP
 - 👨‍ Assistente de Desenvolvimento Pleno
 - 📫 Contate-me no email: daviemanuel94@gmail.com 
 <!--
