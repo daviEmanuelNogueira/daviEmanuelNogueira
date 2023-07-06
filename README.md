@@ -2,6 +2,7 @@
 
 - 🔭 Desenvolvendo pequenos projetos pessoais 👨‍💻
 - 🌱 Analise e Desenvolvimeto de Sistemas - UMESP
+- 🌱 Pós Graduando - Arquitetura de Sistemas .NET com AZURE - FIAP
 - 👨‍ Assistente de Desenvolvimento Pleno
 - 📫 Contate-me no email: daviemanuel94@gmail.com 
 <!--
