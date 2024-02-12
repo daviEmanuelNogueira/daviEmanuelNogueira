@@ -1,7 +1,7 @@
 ### Olá eu sou o Davi Emanuel 👋
 
 - 🔭 Desenvolvendo pequenos projetos pessoais 👨‍💻
-- 🌱 Analise e Desenvolvimeto de Sistemas - UMESP
+- 🌱 tecnólogo em Analise e Desenvolvimeto de Sistemas - UMESP
 - 🌱 Pós Graduando - Arquitetura de Sistemas .NET com AZURE - FIAP
 - 👨‍ Analista de Desenvolvimento Tr
 - 📫 Contate-me no email: daviemanuel94@gmail.com 
